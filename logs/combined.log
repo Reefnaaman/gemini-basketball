@@ -1,0 +1,3 @@
+{"level":"info","message":"Parsing analysis data...","service":"basketball-coach-backend","timestamp":"2025-07-09T19:37:46.876Z"}
+{"layups":{"made":1,"missed":0},"level":"info","message":"📊 Shot breakdown calculated:","midRange":{"made":0,"missed":1},"service":"basketball-coach-backend","threePointers":{"made":1,"missed":0},"timestamp":"2025-07-09T19:37:46.877Z"}
+{"level":"info","message":"✅ Successfully parsed analysis data","service":"basketball-coach-backend","timestamp":"2025-07-09T19:37:46.877Z"}
